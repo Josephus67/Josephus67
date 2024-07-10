@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Bawah Josephus 👋
 
-<!--
-**Josephus67/Josephus67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a computer science student with a passion for front-end development, algorithms, data structures, and mobile app development. Here, you'll find a collection of my projects, assignments, and contributions to various fields. I am passionate about AI, machine learning, and cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Computer Science Student
+- 🔧 Front-end Developer
+- 🌐 Interested in AI, Machine Learning, and Cybersecurity
+- 🎯 Aspiring to work at NASA, CIA, or FBI
+
+## Skills
+
+- **Programming Languages:** JavaScript, Python, HTML
+- **Frameworks & Libraries:** React Native, Expo CLI, React JS, HTML & CSS
+- **Tools & Platforms:** VS Code, Git, GitHub
+- **Other Interests:** Computational Thinking, Gait Analysis, Hermite Interpolation
+
+Feel free to explore my repositories and get in touch if you have any questions or collaborations in mind!
