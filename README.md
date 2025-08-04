@@ -6,12 +6,11 @@
 
 ## 🌟 About Me
 
-I'm a passionate computer science student with a keen interest in pushing the boundaries of technology. My journey is driven by curiosity, innovation, and a desire to make a meaningful impact in the digital world.
+I'm a passionate computer science student with a keen interest in pushing the boundaries of technology. My journey is driven by curiosity, innovation, and a desire to make a meaningful impact in the digital world. Machine Learning is my Chief focus as at now.
 
 - 💻 Computer Science Student at University of Ghana
 - 🚀 Front-end Developer & Mobile App Enthusiast
 - 🌐 AI, Machine Learning, and Cybersecurity Explorer
-- 🎯 Aspiring Tech Innovator (Dream Destinations: NASA, CIA, FBI)
 
 ## 🛠️ Skills & Technologies
 
@@ -47,15 +46,20 @@ I'm a passionate computer science student with a keen interest in pushing the bo
 
 ### 🧠 Advanced Topics
 - Computational Thinking
+- Algorithm Optimization. (PSO,Firebug,Synergistic, Social Spider)
 - Gait Analysis
 - Hermite Interpolation
-- Machine Learning Algorithms
+- Machine Learning and Deep Learning
+- Image Recognition and Object Detection
 - Cybersecurity Protocols
+- CoMPUTER Networks
 
 ## 🌈 Future Exploration Areas
 - Artificial Intelligence
-- Quantum Computing
-- Blockchain Technologies
+- Out of Order Distribution
+- Deep fakes
+- Yolo v6
+- Resnet,Xception, Inception, VGG
 - Ethical Hacking
 - Data Science
 
